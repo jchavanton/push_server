@@ -24,7 +24,6 @@ instruction() {
 	done
 }
 
-TARGET=pbx.mango.band
 TARGET="$1"
 if [ "${TARGET}" == "" ]
 then
